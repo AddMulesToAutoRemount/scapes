@@ -1,2 +1,3 @@
 weathercape : https://i.imgur.com/f5xFPiU.png
 dogcape : https://i.imgur.com/4NutHG9.png
+catcape : https://i.imgur.com/iFd89QF.png
