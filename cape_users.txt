@@ -2,3 +2,8 @@ b95f3669-ee08-4fdc-8fe1-86f4e6698e3d : catcape
 8637c0f3-86d4-4e7b-83d1-31532b692796 : weathercape
 8d78cf5c-bfaa-481f-9e0a-d86481f9c343 : landoncape
 6f21b7df-39b0-4508-a02c-d5fab9dee35c : iancape
+2548cdf7-2a4d-41db-b74c-be08e64ecd25 : lt5
+16eba76f-4bb4-4c75-b623-d560fae73569 : lt5
+565e0141-a3d1-45b8-9675-4a2718702216 : lt5
+84861b81-b8a6-4c45-a808-1a5eaa3f3ac2 : lt5
+3d25c3fe-b5eb-407f-b2ed-82f46e8ad0b7 : lt5
