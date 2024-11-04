@@ -1,0 +1,2 @@
+weathercape : https://cdn.discordapp.com/attachments/1294217121496305747/1294548880242774046/cape_example_png.png?ex=672913d8&is=6727c258&hm=7ed7487f4b8098b98c739f1b06759060711d1ee201c7859a0e7a7340e3885dc7&
+dogcape : https://media.discordapp.net/attachments/1294217121496305747/1294546480375271424/4NutHG9.png?ex=6729119c&is=6727c01c&hm=50ef2de6e1be01ddca70db27d3e5ea1a048bd25d2bb36933e7bec497b1e50af6&=&format=webp&quality=lossless&width=1152&height=576
